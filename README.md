@@ -23,19 +23,28 @@ Some users might not receive any offers during certain weeks.
 Installations----------------------------
 
 • Python 3.6
+
 • Jupyter Notebook
 
 Libraries--------------------------------
 
 • Pandas
+
 • numpy
+
 • Matplotlib
+
 • Seaborn
+
 • Scikit-Learn
+
 
 Files------------------------------------
 
 • portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+
 • profile.json - demographic data for each customer
+
 • transcript.json - records for transactions, offers received, offers viewed, and offers 
 completed
+
